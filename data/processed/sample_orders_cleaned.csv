@@ -1,6 +1,6 @@
-order_id,user_id,sku_id,category_name,order_timestamp,gross_revenue,cogs,promo_discount,shipping_cost,is_returned,return_shipping_cost,promo_code
-1001,501,SKU_A12,Footwear,2026-09-01 10:15:00,8500,4200,1700,450,0,0,AUTUMN20
-1002,502,SKU_A12,Footwear,2026-09-01 11:20:00,8500,4200,1700,600,1,600,AUTUMN20
-1003,503,SKU_B04,Electronics,2026-09-02 14:05:00,14900,9800,1500,500,0,0,WELCOME10
-1004,504,SKU_C99,Apparel,2026-09-03 09:40:00,3200,1800,960,550,1,550,SALE30
-1005,505,SKU_B04,Electronics,2026-09-03 18:12:00,14900,9800,0,450,0,0,NO_PROMO
+order_id,user_id,sku_id,category_name,city_name,order_timestamp,gross_revenue_kzt,cogs_kzt,promo_discount_kzt,shipping_cost_kzt,is_returned,return_shipping_cost_kzt,promo_code
+1001,501,SKU_A12,Footwear,Almaty,2026-09-01 10:15:00,42500,21000,8500,2200,0,0,AUTUMN20
+1002,502,SKU_A12,Footwear,Atyrau,2026-09-01 11:20:00,42500,21000,8500,3200,1,3200,AUTUMN20
+1003,503,SKU_B04,Electronics,Astana,2026-09-02 14:05:00,74500,49000,7450,2500,0,0,WELCOME10
+1004,504,SKU_C99,Apparel,Aktau,2026-09-03 09:40:00,16000,9000,4800,2800,1,2800,SALE30
+1005,505,SKU_B04,Electronics,Shymkent,2026-09-03 18:12:00,74500,49000,0,2200,0,0,NO_PROMO
